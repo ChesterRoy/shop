@@ -8,6 +8,8 @@ public class JDBConnection {
     static final String DB_URL = "jdbc:mysql://localhost:3306/internet_shop";
     static final String USER = "root";
     static final String PASSWORD = "root";
+    
+    //for git
 
     private static JDBConnection instance = new JDBConnection();
 
